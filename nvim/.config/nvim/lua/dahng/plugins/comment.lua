@@ -1,8 +1,8 @@
--- import comment plugin safely
+-- Safely import
 local setup, comment = pcall(require, "Comment")
 if not setup then
-  return
+    return
 end
 
--- enable comment
+-- Enable
 comment.setup()
