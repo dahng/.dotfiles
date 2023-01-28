@@ -12,7 +12,7 @@ require("dahng.plugins.nvim-cmp")
 require("dahng.plugins.autopairs")
 require("dahng.plugins.treesitter")
 require("dahng.plugins.gitsigns")
-require("dahng.plugins.coc")
+-- require("dahng.plugins.coc")
 
 require("dahng.plugins.lsp.mason")
 require("dahng.plugins.lsp.lspsaga")
