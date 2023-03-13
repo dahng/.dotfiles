@@ -6,6 +6,7 @@ syntax on
 set number relativenumber
 
 set cursorline
+set nowrap
 
 set expandtab
 set autoindent
